@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\crud_framework_youtube\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|solutionrelative:crud_framework_youtube\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\crud_framework_youtube\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|solutionrelative:crud_framework_youtube\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|c:\\users\\josep\\source\\repos\\inv\\crud_framework_youtube\\crud_framework_youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|solutionrelative:crud_framework_youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\crud_framework_youtube\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2691AA85-BC39-4E1E-86BE-D97E7F0D9181}|CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE.csproj|solutionrelative:crud_framework_youtube\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_YOUTUBE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_YOUTUBE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T04:15:05.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_YOUTUBE\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "CRUD_FRAMEWORK_YOUTUBE\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T04:13:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_YOUTUBE\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Models\\Book.cs",
+              "RelativeToolTip": "CRUD_FRAMEWORK_YOUTUBE\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:06:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CRUD_FRAMEWORK_YOUTUBE\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Josep\\source\\repos\\INV\\CRUD_FRAMEWORK_YOUTUBE\\CRUD_FRAMEWORK_YOUTUBE\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CRUD_FRAMEWORK_YOUTUBE\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:43:11.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
